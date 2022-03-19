@@ -1,0 +1,23 @@
+{
+  "title": "The Story of a Manga Artist Confined by a Strange High School Girl",
+  "description": "One day, a manga artist woke up to find himself confined by a high school girl.",
+  "artist": "Kitada Ryouma",
+  "author": "Kitada Ryouma",
+  "cover": "https://uploads.mangadex.org/covers/b47a9fc2-a3e3-4fb7-afa8-b50c9ced779d/472cffa9-9777-4e0f-963c-6732d1c57940.jpg.512.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1647709186",
+      "groups": {
+        "Fap It Scans": [
+          "blob:https://mangadex.org/a62048e1-8974-42ee-8bff-b3a12339114d",
+          "blob:https://mangadex.org/b372cc0a-f118-40cd-82dc-ec4b90ee7291",
+          "blob:https://mangadex.org/33c3c607-d5d4-4b28-9211-7db2bbe62392",
+          "blob:https://mangadex.org/013742b9-988e-4df0-890d-52c2443645ca",
+          "blob:https://mangadex.org/45079696-6468-4037-9211-97396735cf99"
+        ]
+      }
+    }
+  }
+}
